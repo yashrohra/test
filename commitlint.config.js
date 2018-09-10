@@ -8,8 +8,7 @@ module.exports = {
     'subject-empty': [2, 'never'],
     // commits MUST be prefixed with a type, which consists of a verb, feat,
     // fix, etc., followed by a colon and a space.
-    'type-empty': [2, 'never'],
-    'type-case': [2, 'always', 'lower-case']
+    'type-empty': [2, 'never']
   }
 }
 
