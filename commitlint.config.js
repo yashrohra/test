@@ -9,7 +9,7 @@ module.exports = {
     // commits MUST be prefixed with a type, which consists of a verb, feat,
     // fix, etc., followed by a colon and a space.
     'type-empty': [2, 'never'],
-    'body-max-line-length': [2, 'always', 10]
+    "header-max-length": [0, "always", 2]
   }
 }
 
